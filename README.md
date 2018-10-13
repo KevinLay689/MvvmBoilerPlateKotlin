@@ -14,6 +14,22 @@ Download Kotlin
 Build and Run
 ```
 
+
+## Libraries
+
+* Kotlin
+* RxJava
+* RxAndroid
+* Dagger 2
+* Room
+
+Included but not yet consumed
+
+* Glide
+* Firebase
+* Retrofit
+
+
 ## Authors
 
 * Kevin Lay
