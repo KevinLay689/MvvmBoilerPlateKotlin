@@ -23,7 +23,7 @@ Build and Run
 * Dagger 2
 * Room
 
-Included but not yet consumed
+Also included
 
 * Glide
 * Firebase
